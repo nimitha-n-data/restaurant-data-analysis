@@ -1,10 +1,12 @@
-# Restaurant Data Analysis using Python
+# 🍽️ Restaurant Data Analysis using Python
 
-## About the Project
+## 📌 About the Project
 
-This project focuses on analyzing a restaurant dataset using Python and Pandas to identify patterns and generate meaningful insights.
+This project was completed as part of my Data Analysis internship at Cognifyz IT Solutions Pvt. Ltd.
 
-## Technologies Used
+The project focuses on analyzing a restaurant dataset using Python and data analysis libraries to identify patterns, trends and meaningful insights.
+
+## 🛠️ Technologies Used
 
 - Python
 - Pandas
@@ -12,20 +14,50 @@ This project focuses on analyzing a restaurant dataset using Python and Pandas t
 - Matplotlib
 - Jupyter Notebook
 
-## Analysis Performed
+## 📊 Analysis Tasks
 
-- Restaurant distribution by city
-- Cuisine analysis
+### Level 1
+
+- Top Cuisines Analysis
+- City Analysis
+- Price Range Analysis
+- Restaurant Data Analysis
+
+### Level 2
+
+- Rating Distribution Analysis
+- Cuisine Combination Analysis
+- Restaurant Location Analysis
+- Restaurant Chain Analysis
+
+## 🔍 Key Areas Explored
+
+- Restaurant distribution across cities
+- Popular cuisines
+- Price ranges
 - Restaurant ratings
-- Price range analysis
 - Online delivery availability
-- Restaurant and customer rating patterns
-- Data visualization
+- Cuisine combinations
+- Restaurant locations
+- Restaurant chains
 
-## Objective
+## 🎯 Objective
 
-The objective of this project is to apply data analysis techniques to a real-world dataset and understand how data can be cleaned, explored, analyzed and visualized to generate useful insights.
+The objective of this project was to apply practical data analysis techniques to a real-world dataset and develop an understanding of data cleaning, exploration, analysis and visualization using Python.
 
-## Author
+## 📚 Skills Demonstrated
 
-Nimitha N
+- Data Cleaning
+- Exploratory Data Analysis
+- Data Manipulation
+- Data Visualization
+- Python Programming
+- Pandas
+- NumPy
+- Matplotlib
+
+## 👩‍💻 Author
+
+**Nimitha N**
+
+BCA Student | Aspiring Data Analyst
